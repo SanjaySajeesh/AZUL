@@ -1,0 +1,26 @@
+Factories:
+0: F 
+1: R B U L 
+2: L L L Y 
+3: R B R L 
+4: B R Y U 
+5: R L Y R 
+
+Score for Player A: 0
+Mosaic for A:
+1:         . || . . . . . 
+2:       . . || . . . . . 
+3:     . . . || . . . . . 
+4:   . . . . || . . . . . 
+5: . . . . . || . . . . . 
+broken: 
+
+Score for Player B: 0
+Mosaic for B:
+1:         . || . . . . . 
+2:       . . || . . . . . 
+3:     . . . || . . . . . 
+4:   . . . . || . . . . . 
+5: . . . . . || . . . . . 
+broken: 
+
